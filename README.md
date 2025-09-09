@@ -131,3 +131,13 @@ Um arquivo `.gitignore` foi configurado para ignorar arquivos e diretórios que 
 *   Arquivos específicos de sistema operacional (`.DS_Store`)
 *   Arquivos de diagramas (`*.asta`, `*.jpg`, `*.png`) - *Nota: Estes foram incluídos no `.gitignore` para focar no código-fonte e documentação, mas podem ser versionados se forem parte integrante do projeto e não apenas artefatos gerados.*
 
+
+
+
+## Última Atualização
+
+Este repositório foi atualizado em 
+
+
+09/09/2025 09:58.
+
