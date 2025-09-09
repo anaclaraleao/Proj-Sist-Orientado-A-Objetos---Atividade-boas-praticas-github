@@ -1,0 +1,32 @@
+# Python
+*.pyc
+__pycache__/
+.Python/
+build/
+develop-eggs/
+dist/
+*.egg-info/
+.env/
+.venv/
+venv/
+ENV/
+env.bak/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.Trashes
+thumbs.db
+
+# Diagrams
+*.asta
+*.jpg
+*.png
+
+
