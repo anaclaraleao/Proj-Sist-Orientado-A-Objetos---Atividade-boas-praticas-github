@@ -1,27 +1,39 @@
 # Repositório Individual - Atividade ASOO Projeto
 
-## 📝 Descrição do Projeto
+##  Descrição do Desafio
 
-Este repositório individual foi criado como parte da atividade da disciplina de Análise e Projeto Orientado a Objetos (ASOO), com o objetivo de aplicar as boas práticas de uso do Git e GitHub, conforme o guia fornecido. O projeto base é um sistema integrado para atendimento de solicitações internas de suporte técnico, onde colaboradores podem registrar suas solicitações e uma inteligência artificial (IA) sugere soluções automáticas ou encaminha ao técnico adequado.
+Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas na priorização.
+A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e na complexidade do problema.
 
-## 🎯 Objetivo
+##  Backlog do Produto
 
-O principal objetivo deste repositório é demonstrar a aplicação das seguintes boas práticas:
+Sprint 1 – Infraestrutura e Base do Sistema
+*    Configuração do ambiente de desenvolvimento
+*    Configuração do banco de dados SQL Server
+*    Definição da arquitetura do sistema (modularidade)
+*    Implementação inicial da segurança (criptografia de senhas, autenticação básica)
+  
+Sprint 2 – Cadastro e Autenticação
+*    Desenvolvimento do cadastro de usuários
+*    Implementação da autenticação com diferentes níveis de acesso
+*    Validação e testes iniciais
+  
+Sprint 3 – Abertura de Chamados
+*    Criar a funcionalidade para abertura de chamados
+*    Interface para exibição dos chamados abertos
+*    Testes de integração com banco de dados
+  
+Sprint 4 – Classificação Inteligente (IA)
+*    Treinamento inicial da IA com base no histórico de chamados (dados fictícios se necessário)
+*    Implementação da sugestão automática de soluções
+*    Testes e ajustes no modelo
+  
+Sprint 5 – Refinamento e Segurança
+*    Melhorias na segurança do sistema
+*    Ajustes na modularidade e refatoração do código
+*    Testes finais e documentação
 
-*   **Documentação abrangente**: Fornecer um `README.md` detalhado que explique o projeto, sua estrutura, como executá-lo e as decisões de design.
-*   **Padronização de Commits**: Utilizar um padrão de mensagens de commit claro e consistente para facilitar a rastreabilidade e compreensão do histórico do projeto.
-*   **Estratégia de Branching**: Adotar uma estratégia de branch que permita o desenvolvimento organizado e a colaboração (mesmo que simulada para um projeto individual).
-*   **Uso Eficiente do Git**: Empregar `.gitignore` e outras práticas recomendadas para manter o repositório limpo e focado no código relevante.
-
-## 👨‍💻 Equipe (Referência do Projeto Original)
-
-Este projeto é baseado em um trabalho em grupo, e a equipe original era composta por:
-
-*   **PO**: Ana Clara Leão Ferreira
-*   **Scrum Master**: Igor Sene Idalgo
-*   **Devs**: Mauricio R. Verdussen, Pedro Henrique T. de Carvalho, Henry M. Damasceno Santos, Vinícius Gobis Novo
-
-## 📋 Requisitos do Sistema
+##  Requisitos do Sistema
 
 ### Funcionais
 
@@ -36,7 +48,7 @@ Este projeto é baseado em um trabalho em grupo, e a equipe original era compost
 *   **Segurança**: Implementação de medidas de segurança.
 *   **Modularidade**: Design modular do sistema.
 
-## 🚀 Backlog do Produto e Sprints (Referência do Projeto Original)
+## Tabela das Sprints (Referência do Projeto Original)
 
 O projeto original foi dividido em sprints, com os seguintes objetivos e entregas:
 
@@ -48,9 +60,17 @@ O projeto original foi dividido em sprints, com os seguintes objetivos e entrega
 | **Sprint 4** | 24/06 - 30/06/2024 | Classificação inteligente | IA treinada + sugestões |
 | **Sprint 5** | 01/07 - 07/07/2024 | Refinamento e testes | Sistema ajustado + documentação |
 
-## 📚 Modelagem de Requisitos (Referência do Projeto Original)
+##  Tecnologias Utilizadas (Referência do Projeto Original)
 
-### 🔹 Casos de Uso
+*   **SQL Server** – banco de dados
+*   **(Definir linguagens/frameworks usados, ex: C#, .NET, Java, Node.js, etc.)**
+*   **Ferramentas de versionamento**: Git/GitHub
+
+## Estrutura do Projeto
+
+### 🔹 Caso de Uso
+
+<img width="1378" height="2224" alt="431613165-2fa7933b-9304-485c-93a4-ed86c0ff05a8" src="https://github.com/user-attachments/assets/e2f915fd-0cb6-44f0-b03a-b6098592db69" />
 
 Fluxo:
 
@@ -62,21 +82,21 @@ Fluxo:
 
 ### 🔹 Diagrama de Classes
 
+<img width="884" height="1105" alt="diagrama de Classe" src="https://github.com/user-attachments/assets/49d27576-90a7-4d58-968a-a55226579239" />
+
 Representa a estrutura do sistema, com suporte da IA para triagem, histórico e priorização dos chamados.
 
 ### 🔹 Diagrama de Sequência
 
+![diagrama de sequencia](https://github.com/user-attachments/assets/64b873dd-35a0-40b3-b705-fc4133ba1311)
+
 ### 🔹 Diagrama de Implantação
+
+![diagrama de implantação](https://github.com/user-attachments/assets/d4edfdf2-2116-47cb-a344-0fd5c04b718e)
 
 Representa a arquitetura do sistema de chamados com IA.
 
-## 🛠️ Tecnologias Utilizadas (Referência do Projeto Original)
-
-*   **SQL Server** – banco de dados
-*   **(Definir linguagens/frameworks usados, ex: C#, .NET, Java, Node.js, etc.)**
-*   **Ferramentas de versionamento**: Git/GitHub
-
-## ▶️ Como Executar o Projeto (Referência do Projeto Original)
+## ▶️ Como Executar o Projeto 
 
 ```shell
 # Clonar repositório
@@ -88,4 +108,9 @@ cd Atividade-da-disciplina-ASOO-projeto
 # (Rodar comandos de instalação conforme a tecnologia escolhida)
 ```
 
+##  Equipe
+
+*   **PO**: Ana Clara Leão Ferreira
+*   **Scrum Master**: Igor Sene Idalgo
+*   **Devs**: Mauricio R. Verdussen, Pedro Henrique T. de Carvalho, Henry M. Damasceno Santos, Vinícius Gobis Novo
 
