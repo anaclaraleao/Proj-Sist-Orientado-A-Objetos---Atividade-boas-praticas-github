@@ -22,11 +22,9 @@ O projeto original foi dividido em sprints, com os seguintes objetivos e entrega
 | **Sprint 4** | 24/06 - 30/06/2024 | Classificação inteligente | IA treinada + sugestões |
 | **Sprint 5** | 01/07 - 07/07/2024 | Refinamento e testes | Sistema ajustado + documentação |
 
-##  Tecnologias Utilizadas (Referência do Projeto Original)
+## Tecnologias Utilizadas
 
-*   **SQL Server** – banco de dados
-*   **(Definir linguagens/frameworks usados, ex: C#, .NET, Java, Node.js, etc.)**
-*   **Ferramentas de versionamento**: Git/GitHub
+Para as Tecnologias Utilizadas, acesse o repositório dedicado: [Tecnologias Utilizadas](https://github.com/anaclaraleao/Tecnologias-Utilizadas)
 
 ## Estrutura do Projeto
 
