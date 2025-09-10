@@ -5,33 +5,9 @@
 Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas na priorização.
 A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e na complexidade do problema.
 
-##  Backlog do Produto
+## Backlog do Produto
 
-Sprint 1 – Infraestrutura e Base do Sistema
-*    Configuração do ambiente de desenvolvimento
-*    Configuração do banco de dados SQL Server
-*    Definição da arquitetura do sistema (modularidade)
-*    Implementação inicial da segurança (criptografia de senhas, autenticação básica)
-  
-Sprint 2 – Cadastro e Autenticação
-*    Desenvolvimento do cadastro de usuários
-*    Implementação da autenticação com diferentes níveis de acesso
-*    Validação e testes iniciais
-  
-Sprint 3 – Abertura de Chamados
-*    Criar a funcionalidade para abertura de chamados
-*    Interface para exibição dos chamados abertos
-*    Testes de integração com banco de dados
-  
-Sprint 4 – Classificação Inteligente (IA)
-*    Treinamento inicial da IA com base no histórico de chamados (dados fictícios se necessário)
-*    Implementação da sugestão automática de soluções
-*    Testes e ajustes no modelo
-  
-Sprint 5 – Refinamento e Segurança
-*    Melhorias na segurança do sistema
-*    Ajustes na modularidade e refatoração do código
-*    Testes finais e documentação
+Para o Backlog do Produto, acesse o repositório dedicado: [Backlog do Produto](https://github.com/anaclaraleao/Backlog-do-Produto)
 
 ##  Requisitos do Sistema
 
