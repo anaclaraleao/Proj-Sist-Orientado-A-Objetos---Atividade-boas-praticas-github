@@ -9,22 +9,8 @@ A empresa deseja adotar um sistema integrado, no qual os colaboradores possam re
 
 Para o Backlog do Produto, acesse o repositório dedicado: [Backlog do Produto](https://github.com/anaclaraleao/Backlog-do-Produto)
 
-##  Requisitos do Sistema
 
-### Funcionais
-
-*   **Cadastro de usuário**: Usuários podem se cadastrar no sistema.
-*   **Autenticação de login**: Diferentes níveis de acesso.
-*   **Abertura de chamados**: Usuários podem registrar requisições de suporte.
-*   **Classificação inteligente**: IA analisa chamados e sugere soluções ou encaminha ao técnico adequado.
-
-### Não Funcionais
-
-*   **Banco de dados**: SQL Server.
-*   **Segurança**: Implementação de medidas de segurança.
-*   **Modularidade**: Design modular do sistema.
-
-## Tabela das Sprints (Referência do Projeto Original)
+## Tabela das Sprints
 
 O projeto original foi dividido em sprints, com os seguintes objetivos e entregas:
 
