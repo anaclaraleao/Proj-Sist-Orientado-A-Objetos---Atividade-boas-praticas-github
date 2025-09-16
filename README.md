@@ -7,70 +7,21 @@ A empresa deseja adotar um sistema integrado, no qual os colaboradores possam re
 
 ## Backlog do Produto
 
-Para o Backlog do Produto, acesse o repositório dedicado: [Backlog do Produto](https://github.com/anaclaraleao/Backlog-do-Produto)
+Para o Backlog do Produto, acesse: [Backlog do Produto](https://github.com/anaclaraleao/Backlog-do-Produto)
 
-
-## Tabela das Sprints
-
-O projeto original foi dividido em sprints, com os seguintes objetivos e entregas:
-
-| Sprint | Período | Objetivos | Entregas |
-| :--- | :--- | :--- | :--- |
-| **Sprint 1** | 03/06 - 09/06/2024 | Infraestrutura e base do sistema | Ambiente, DB, segurança inicial |
-| **Sprint 2** | 10/06 - 16/06/2024 | Cadastro e autenticação | Cadastro + login |
-| **Sprint 3** | 17/06 - 23/06/2024 | Abertura de chamados | CRUD de chamados |
-| **Sprint 4** | 24/06 - 30/06/2024 | Classificação inteligente | IA treinada + sugestões |
-| **Sprint 5** | 01/07 - 07/07/2024 | Refinamento e testes | Sistema ajustado + documentação |
+## Evolução do Projeto
+Para a Evolução do Projeto, acesse: [Evolução do Projeto](https://github.com/anaclaraleao/Cronograma-de-evolu-ao-do-projeto)
 
 ## Tecnologias Utilizadas
 
-Para as Tecnologias Utilizadas, acesse o repositório dedicado: [Tecnologias Utilizadas](https://github.com/anaclaraleao/Tecnologias-Utilizadas)
+Para as Tecnologias Utilizadas, acesse: [Tecnologias Utilizadas](https://github.com/anaclaraleao/Tecnologias-Utilizadas)
 
 ## Estrutura do Projeto
+Para a Estrutura do Projeto, acesse: [Estrutura do Projeto](https://github.com/anaclaraleao/Estrutura-do-Projeto)
 
-### 🔹 Caso de Uso
-
-<img width="1378" height="2224" alt="431613165-2fa7933b-9304-485c-93a4-ed86c0ff05a8" src="https://github.com/user-attachments/assets/e2f915fd-0cb6-44f0-b03a-b6098592db69" />
-
-Fluxo:
-
-1.  Funcionário faz login → abre chamado
-2.  IA recebe e valida chamado
-3.  IA define prioridade (alta, média, baixa)
-4.  IA resolve ou encaminha ao técnico
-5.  Chamado encerrado
-
-### 🔹 Diagrama de Classes
-
-<img width="884" height="1105" alt="diagrama de Classe" src="https://github.com/user-attachments/assets/49d27576-90a7-4d58-968a-a55226579239" />
-
-Representa a estrutura do sistema, com suporte da IA para triagem, histórico e priorização dos chamados.
-
-### 🔹 Diagrama de Sequência
-
-![diagrama de sequencia](https://github.com/user-attachments/assets/64b873dd-35a0-40b3-b705-fc4133ba1311)
-
-### 🔹 Diagrama de Implantação
-
-![diagrama de implantação](https://github.com/user-attachments/assets/d4edfdf2-2116-47cb-a344-0fd5c04b718e)
-
-Representa a arquitetura do sistema de chamados com IA.
-
-## ▶️ Como Executar o Projeto 
-
-```shell
-# Clonar repositório
-git clone https://github.com/IgorIdalgo/Atividade-da-disciplina-ASOO-projeto
-
-# Entrar na pasta do projeto
-cd Atividade-da-disciplina-ASOO-projeto
-
-# (Rodar comandos de instalação conforme a tecnologia escolhida)
-```
+## Como Executar o Projeto
+Para a execução do Projeto, acesse: [Execução do Projeto](https://github.com/anaclaraleao/Execucao-do-projeto)
 
 ##  Equipe
 
-*   **PO**: Ana Clara Leão Ferreira
-*   **Scrum Master**: Igor Sene Idalgo
-*   **Devs**: Mauricio R. Verdussen, Pedro Henrique T. de Carvalho, Henry M. Damasceno Santos, Vinícius Gobis Novo
-
+<table> <tr> <td align="center"> <a href="https://github.com/IgorIdalgo"> <img src="https://avatars.githubusercontent.com/IgorIdalgo" width="100px;" alt="Igor Idalgo"/> <br /> <sub><b>Igor Idalgo</b></sub> </a> <br /> <a href="https://www.linkedin.com/in/igor-sene">🔗 LinkedIn</a> </td> <td align="center"> <a href="https://github.com/Verdussen"> <img src="https://avatars.githubusercontent.com/u/183842345?v=4" width="100px;" alt="Verdussen"/> <br /> <sub><b>Verdussen</b></sub> </a> <br /> <a href="https://github.com/Verdussen">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/HenryDamasceno01"> <img src="https://avatars.githubusercontent.com/HenryDamasceno01" width="100px;" alt="Henry Damasceno"/> <br /> <sub><b>Henry Damasceno</b></sub> </a> <br /> <a href="https://www.linkedin.com/in/henry-damasceno-101b0a2ba/">🔗 LinkedIn</a> </td> <td align="center"> <a href="https://github.com/gobiss"> <img src="https://avatars.githubusercontent.com/gobiss" width="100px;" alt="Gobiss"/> <br /> <sub><b>Gobiss</b></sub> </a> <br /> <a href="https://github.com/gobiss">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/anaclaraleao"> <img src="https://avatars.githubusercontent.com/anaclaraleao" width="100px;" alt="Ana Clara"/> <br /> <sub><b>Ana Clara</b></sub> </a> <br /> <a href="https://github.com/anaclaraleao">🔗 GitHub</a> </td> </tr> </table>
