@@ -4,7 +4,7 @@
 
 Uma empresa de médio porte possui um setor de TI responsável pelo atendimento interno de suporte técnico. Atualmente, as solicitações são feitas por e-mail ou telefone, o que dificulta o controle dos chamados, causando atrasos e falhas na priorização dos atendimentos.
 
-Para aprimorar esse processo, a empresa deseja implementar um sistema integrado, onde os colaboradores possam registrar suas solicitações de forma centralizada. Esse sistema contará com inteligência artificial capaz de sugerir soluções automáticas com base no histórico de chamados e, quando necessário, encaminhar a demanda para o técnico mais adequado, considerando a complexidade do problema.
+Com o intuito de otimizar esse procedimento, a organização planeja adotar uma plataforma unificada, permitindo que os funcionários realizem suas solicitações de maneira centralizada. A nova ferramenta incluirá inteligência artificial que poderá oferecer soluções automáticas fundamentadas no histórico de atendimentos e, sempre que necessário, direcionar a solicitação ao técnico mais indicado, levando em conta a gravidade da questão.
 
 ## Backlog do Produto
 
